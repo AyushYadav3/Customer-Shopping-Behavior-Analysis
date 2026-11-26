@@ -3,7 +3,7 @@
 An end-to-end analysis of 3,900 retail transactions using **Python, SQL Server and Power BI**, turning raw shopping data into an interactive dashboard of business insights.
 
 ---
-![Dashboard Preview](CustomerShoppingBehavior.png.png)
+![Dashboard Preview](CustomerShoppingBehavior.png) 
 ## Problem Statement
 
 Retailers need to know who their customers are and which segments and products actually drive revenue. This project analyses customer shopping data to answer questions such as:
